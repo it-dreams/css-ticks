@@ -1,7 +1,8 @@
-## css-ticks
+# css-ticks
 
-# Html Table in Zebra fromat with 3 colors
+### Html Table in Zebra fromat with 3 colors
 
+```
 table tr td {
   border: 1px solid #333;
 }
@@ -18,3 +19,4 @@ table tr:nth-child(3n) {
     background-color: yellow;
     color: #fff;
 }
+```
